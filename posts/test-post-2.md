@@ -1,0 +1,4 @@
+---
+title: test post 2
+---
+test post 2 contents
